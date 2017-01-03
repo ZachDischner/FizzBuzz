@@ -22,8 +22,6 @@ Example:
 from  __future__ import print_function   # Should really be using Python 3.5+
 import sys
 import argparse
-import numpy as np
-
 
 ##############################################################################
 #                                  Functions
