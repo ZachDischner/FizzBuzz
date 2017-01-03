@@ -1,0 +1,6 @@
+name: fizzbuzz
+
+dependencies:
+  - python=3.5
+  - pytest
+  - setuptools
